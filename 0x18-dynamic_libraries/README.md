@@ -1,1 +1,1 @@
-This part focuses on Dynamic libraries
+How to use Dynamic libraries in C
